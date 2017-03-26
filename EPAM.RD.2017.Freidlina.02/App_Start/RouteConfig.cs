@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
+﻿using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace EPAM.RD._2017.Freidlina._02
+namespace PhotoGallery.WebUI
 {
     public class RouteConfig
     {

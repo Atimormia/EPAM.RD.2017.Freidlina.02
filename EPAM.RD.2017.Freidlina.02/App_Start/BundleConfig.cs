@@ -1,7 +1,6 @@
-﻿using System.Web;
-using System.Web.Optimization;
+﻿using System.Web.Optimization;
 
-namespace EPAM.RD._2017.Freidlina._02
+namespace PhotoGallery.WebUI
 {
     public class BundleConfig
     {

@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="EPAM.RD._2017.Freidlina._02.MvcApplication" Language="C#" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="PhotoGallery.WebUI.MvcApplication" Language="C#" %>
